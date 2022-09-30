@@ -6,6 +6,7 @@ module.exports = {
 	},
 	urls: [
 		"https://www.selency.fr/",
+		"https://www.selency.co.uk/",
 		"https://www.selency.fr/meubles.html",
 		"https://www.selency.fr/produit/JTJGBRAQ/chiffonnier-annees-50.html",
 	]
