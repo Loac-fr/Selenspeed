@@ -8,6 +8,6 @@ module.exports = {
 		"https://www.selency.fr/",
 		"https://www.selency.co.uk/",
 		"https://www.selency.fr/meubles.html",
-		"https://www.selency.fr/produit/JTJGBRAQ/chiffonnier-annees-50.html",
+		"https://www.selency.fr/produit/D6R5GU3W/pouf-berbere.html",
 	]
 };
